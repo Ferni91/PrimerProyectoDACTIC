@@ -10,7 +10,14 @@ public class Vehiculo
         Modelo = modelo;
         PrecioPorDia = precioPorDia;
     }
+    // clase interna
+    internal class Descuento
+    {
+        public static decimal AplicarDescuento(decimal precio, decimal porcentajeDescuento)
+        {
+            return precio - (precio * (porcentajeDescuento / 100));
+        }
+    }
 
-    
 }
 

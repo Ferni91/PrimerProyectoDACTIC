@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|c:\\users\\ferna\\onedrive\\escritorio\\tareadactic\\reservadevehiculos\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|solutionrelative:vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|c:\\users\\ferna\\onedrive\\escritorio\\tareadactic\\reservadevehiculos\\calcularreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|solutionrelative:calcularreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|c:\\users\\ferna\\onedrive\\escritorio\\tareadactic\\reservadevehiculos\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|solutionrelative:extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|c:\\users\\ferna\\onedrive\\escritorio\\tareadactic\\reservadevehiculos\\calcularreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|solutionrelative:calcularreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|c:\\users\\ferna\\onedrive\\escritorio\\tareadactic\\reservadevehiculos\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|solutionrelative:vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Vehiculos.cs",
               "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\Vehiculos.cs",
               "RelativeDocumentMoniker": "Vehiculos.cs",
               "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\Vehiculos.cs",
               "RelativeToolTip": "Vehiculos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T03:37:53.475Z",
               "IsPinned": true,
@@ -52,19 +52,21 @@
               "RelativeToolTip": "Extension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T03:58:21.842Z"
+              "WhenOpened": "2024-10-08T03:58:21.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CalcularReserva.cs",
               "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\CalcularReserva.cs",
               "RelativeDocumentMoniker": "CalcularReserva.cs",
               "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\CalcularReserva.cs",
               "RelativeToolTip": "CalcularReserva.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T04:10:46.99Z"
+              "WhenOpened": "2024-10-08T04:10:46.99Z",
+              "EditorCaption": ""
             }
           ]
         }
