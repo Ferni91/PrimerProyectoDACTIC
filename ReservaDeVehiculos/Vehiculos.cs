@@ -12,4 +12,11 @@ namespace ReservaDeVehiculos
 
         public Decimal PrecioPorDia { get; set; }
     }
+    internal class Descuento
+    {
+        public static decimal AplicarDescuento (decimal precio, decimal porcentajeDescuento)
+        {
+            return precio - (precio *  (porcentajeDescuento /100));
+        }
+    }
 }
