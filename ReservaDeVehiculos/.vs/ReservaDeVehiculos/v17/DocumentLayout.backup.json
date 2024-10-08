@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|c:\\users\\ferna\\onedrive\\escritorio\\tareadactic\\reservadevehiculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|c:\\users\\ferna\\onedrive\\escritorio\\tareadactic\\reservadevehiculos\\vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE0E4A57-27ED-4E4F-A2F5-DEAC9B42B82B}|ReservaDeVehiculos.csproj|solutionrelative:vehiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,33 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Vehiculos.cs",
               "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\Vehiculos.cs",
               "RelativeDocumentMoniker": "Vehiculos.cs",
               "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\Vehiculos.cs",
               "RelativeToolTip": "Vehiculos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T03:37:53.475Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Extension.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\Extension.cs",
-              "RelativeDocumentMoniker": "Extension.cs",
-              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\Extension.cs",
-              "RelativeToolTip": "Extension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T03:58:21.842Z",
               "EditorCaption": ""
             },
             {
@@ -61,7 +44,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\Extension.cs",
+              "RelativeDocumentMoniker": "Extension.cs",
+              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\Extension.cs",
+              "RelativeToolTip": "Extension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T03:58:21.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CalcularReserva.cs",
               "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\CalcularReserva.cs",
               "RelativeDocumentMoniker": "CalcularReserva.cs",
@@ -69,21 +64,7 @@
               "RelativeToolTip": "CalcularReserva.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T04:10:46.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ferna\\OneDrive\\Escritorio\\TareaDACTIC\\ReservaDeVehiculos\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T03:34:55.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T04:10:46.99Z"
             }
           ]
         }
