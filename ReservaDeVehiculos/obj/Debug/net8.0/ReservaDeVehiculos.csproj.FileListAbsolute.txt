@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\bin\Debug\net8.0\ReservaDeVehiculos.exe
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\bin\Debug\net8.0\ReservaDeVehiculos.deps.json
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\bin\Debug\net8.0\ReservaDeVehiculos.runtimeconfig.json
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\bin\Debug\net8.0\ReservaDeVehiculos.dll
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\bin\Debug\net8.0\ReservaDeVehiculos.pdb
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\obj\Debug\net8.0\ReservaDeVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\obj\Debug\net8.0\ReservaDeVehiculos.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\obj\Debug\net8.0\ReservaDeVehiculos.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\obj\Debug\net8.0\ReservaDeVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\obj\Debug\net8.0\ReservaDeVehiculos.sourcelink.json
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\obj\Debug\net8.0\ReservaDeVehiculos.dll
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\obj\Debug\net8.0\refint\ReservaDeVehiculos.dll
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\obj\Debug\net8.0\ReservaDeVehiculos.pdb
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\obj\Debug\net8.0\ReservaDeVehiculos.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Escritorio\TareaDACTIC\ReservaDeVehiculos\obj\Debug\net8.0\ref\ReservaDeVehiculos.dll
