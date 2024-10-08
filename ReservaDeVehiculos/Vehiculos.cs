@@ -10,7 +10,7 @@ namespace ReservaDeVehiculos
     {
         public string Modelo { get; set; }
 
-        public Decimal PrecioPorDia { get; set; }
+        public decimal PrecioPorDia { get; set; }
     }
     internal class Descuento
     {
